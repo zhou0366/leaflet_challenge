@@ -1,4 +1,6 @@
-# leaflit_challenge
+# Earthquake Data Map
+
+The github page is available here: https://zhou0366.github.io/leaflet_challenge/
  
 ## Sources
 
