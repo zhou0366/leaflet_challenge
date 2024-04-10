@@ -2,7 +2,21 @@
 
 The github page is available here: https://zhou0366.github.io/leaflet_challenge/
  
+This page will create a map of recorded earthquakes mapped as circles on a map at their latitude and longitude. The base map will be OpenStreetMap and earthquake data will be retrieved from USGS. These circles will be color coded by the recorded depth and the radius will be determined by magnitude as shown in the image below. The map will be centered around Taiwan.
+
+![alt text](image-2.png)
+
 ## Sources
+
+OpenStreetMap
+
+https://www.openstreetmap.org/copyright
+
+
+USGS
+
+http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+
 
 Tool for creating and previewing a map legend 
 
